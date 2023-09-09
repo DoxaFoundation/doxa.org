@@ -1894,8 +1894,8 @@ a.link-box {
   line-height: 0; }
 
 .elementor-shape-polygon .elementor-icon {
-  -webkit-mask-image: url(/wp-content/plugins/gainlove-core/assets/css/elementor/assets/images/icon_box.png);
-  mask-image: url(/wp-content/plugins/gainlove-core/assets/css/elementor/assets/images/icon_box.png);
+  -webkit-mask-image: url(httpgithub.com/DoxaFoundation/doxa.org/wp-content/plugins/gainlove-core/assets/css/elementor/assets/images/icon_box.png);
+  mask-image: url(httpgithub.com/DoxaFoundation/doxa.org/wp-content/plugins/gainlove-core/assets/css/elementor/assets/images/icon_box.png);
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
   -webkit-mask-size: 100%;
@@ -1939,7 +1939,7 @@ a.link-box {
     transform: translate(-50%,-50%);
     z-index: 1; }
   .elementor-widget-image-box .elementor-image-framed.svg-box-decor:before {
-    background-image: url(/wp-content/plugins/gainlove-core/assets/css/elementor/assets/images/svg-box-decor.png);
+    background-image: url(httpgithub.com/DoxaFoundation/doxa.org/wp-content/plugins/gainlove-core/assets/css/elementor/assets/images/svg-box-decor.png);
     background-position: top;
     background-repeat: no-repeat;
     background-size: contain;
@@ -3603,8 +3603,8 @@ ul.elementor-nav-menu--dropdown a {
   width: 100%;
   -webkit-mask-size: 100%;
   mask-size: 100%;
-  -webkit-mask-image: url(/wp-content/plugins/gainlove-core/assets/css/elementor/assets/images/pricing_bg.svg);
-  mask-image: url(/wp-content/plugins/gainlove-core/assets/css/elementor/assets/images/pricing_bg.svg);
+  -webkit-mask-image: url(httpgithub.com/DoxaFoundation/doxa.org/wp-content/plugins/gainlove-core/assets/css/elementor/assets/images/pricing_bg.svg);
+  mask-image: url(httpgithub.com/DoxaFoundation/doxa.org/wp-content/plugins/gainlove-core/assets/css/elementor/assets/images/pricing_bg.svg);
   -webkit-mask-position: center bottom;
   mask-position: center bottom;
   -webkit-mask-repeat: no-repeat;
