@@ -842,8 +842,8 @@ img.mfp-img {
 */
 @font-face {
   font-family: give-icomoon;
-  src: url(httpgithub.com/DoxaFoundation/doxa.org/wp-content/plugins/gainlove-core/assets/css/give/assets/fonts/icomoon.eot?kdnr3d);
-  src: url(httpgithub.com/DoxaFoundation/doxa.org/wp-content/plugins/gainlove-core/assets/css/give/assets/fonts/icomoon.eot?kdnr3d#iefix) format("embedded-opentype"),url(httpgithub.com/DoxaFoundation/doxa.org/wp-content/plugins/gainlove-core/assets/css/give/assets/fonts/icomoon.woff?kdnr3d) format("woff"),url(httpgithub.com/DoxaFoundation/doxa.org/wp-content/plugins/gainlove-core/assets/css/give/assets/fonts/icomoon.svg?kdnr3d#icomoon) format("svg");
+  src: url(httpgithub.com/DoxaFoundation/wp-content/plugins/gainlove-core/assets/css/give/assets/fonts/icomoon.eot?kdnr3d);
+  src: url(httpgithub.com/DoxaFoundation/wp-content/plugins/gainlove-core/assets/css/give/assets/fonts/icomoon.eot?kdnr3d#iefix) format("embedded-opentype"),url(httpgithub.com/DoxaFoundation/wp-content/plugins/gainlove-core/assets/css/give/assets/fonts/icomoon.woff?kdnr3d) format("woff"),url(httpgithub.com/DoxaFoundation/wp-content/plugins/gainlove-core/assets/css/give/assets/fonts/icomoon.svg?kdnr3d#icomoon) format("svg");
   font-weight: 400;
   font-style: normal; }
 
@@ -1600,7 +1600,7 @@ CC Validation
       display: inline-block; }
 
 #give_purchase_form_wrap input.give-input.card-cvc.valid,#give_purchase_form_wrap input.give-input.card-expiry.valid,#give_purchase_form_wrap input.give-input.card-number.valid {
-  background-image: url(httpgithub.com/DoxaFoundation/doxa.org/wp-content/plugins/gainlove-core/assets/css/images/tick.png);
+  background-image: url(httpgithub.com/DoxaFoundation/wp-content/plugins/gainlove-core/assets/css/images/tick.png);
   background-repeat: no-repeat;
   background-position: right 10px top 50%;
   background-size: 16px; }
@@ -1623,31 +1623,31 @@ CC Validation
   display: none; }
 
 #give_purchase_form_wrap span.card-type.visa {
-  background: url(httpgithub.com/DoxaFoundation/doxa.org/wp-content/plugins/gainlove-core/assets/css/images/visa.svg) no-repeat; }
+  background: url(httpgithub.com/DoxaFoundation/wp-content/plugins/gainlove-core/assets/css/images/visa.svg) no-repeat; }
 
 #give_purchase_form_wrap span.card-type.mastercard {
-  background: url(httpgithub.com/DoxaFoundation/doxa.org/wp-content/plugins/gainlove-core/assets/css/images/mastercard.svg) no-repeat; }
+  background: url(httpgithub.com/DoxaFoundation/wp-content/plugins/gainlove-core/assets/css/images/mastercard.svg) no-repeat; }
 
 #give_purchase_form_wrap span.card-type.discover {
-  background: url(httpgithub.com/DoxaFoundation/doxa.org/wp-content/plugins/gainlove-core/assets/css/images/discover.svg) no-repeat; }
+  background: url(httpgithub.com/DoxaFoundation/wp-content/plugins/gainlove-core/assets/css/images/discover.svg) no-repeat; }
 
 #give_purchase_form_wrap span.card-type.amex {
-  background: url(httpgithub.com/DoxaFoundation/doxa.org/wp-content/plugins/gainlove-core/assets/css/images/amex.svg) no-repeat; }
+  background: url(httpgithub.com/DoxaFoundation/wp-content/plugins/gainlove-core/assets/css/images/amex.svg) no-repeat; }
 
 #give_purchase_form_wrap span.card-type.maestro {
-  background: url(httpgithub.com/DoxaFoundation/doxa.org/wp-content/plugins/gainlove-core/assets/css/images/maestro.svg) no-repeat; }
+  background: url(httpgithub.com/DoxaFoundation/wp-content/plugins/gainlove-core/assets/css/images/maestro.svg) no-repeat; }
 
 #give_purchase_form_wrap span.card-type.dinersclub {
-  background: url(httpgithub.com/DoxaFoundation/doxa.org/wp-content/plugins/gainlove-core/assets/css/images/diners-club.svg) no-repeat; }
+  background: url(httpgithub.com/DoxaFoundation/wp-content/plugins/gainlove-core/assets/css/images/diners-club.svg) no-repeat; }
 
 #give_purchase_form_wrap span.card-type.jcb {
-  background: url(httpgithub.com/DoxaFoundation/doxa.org/wp-content/plugins/gainlove-core/assets/css/images/jcb.svg) no-repeat; }
+  background: url(httpgithub.com/DoxaFoundation/wp-content/plugins/gainlove-core/assets/css/images/jcb.svg) no-repeat; }
 
 #give_purchase_form_wrap span.card-type.dankort {
-  background: url(httpgithub.com/DoxaFoundation/doxa.org/wp-content/plugins/gainlove-core/assets/css/images/dankort.png) no-repeat; }
+  background: url(httpgithub.com/DoxaFoundation/wp-content/plugins/gainlove-core/assets/css/images/dankort.png) no-repeat; }
 
 #give_purchase_form_wrap span.card-type.unionpay {
-  background: url(httpgithub.com/DoxaFoundation/doxa.org/wp-content/plugins/gainlove-core/assets/css/images/unionpay.svg) no-repeat; }
+  background: url(httpgithub.com/DoxaFoundation/wp-content/plugins/gainlove-core/assets/css/images/unionpay.svg) no-repeat; }
 
 /*---------------------------------
 Loading Animation
@@ -2916,7 +2916,7 @@ ul.campaign-gallery {
   border-radius: 5px;
   padding: 0 1rem;
   position: relative;
-  background-image: url(httpgithub.com/DoxaFoundation/doxa.org/wp-content/plugins/gainlove-core/assets/css/give/assets/images/down-arrow.svg);
+  background-image: url(httpgithub.com/DoxaFoundation/wp-content/plugins/gainlove-core/assets/css/give/assets/images/down-arrow.svg);
   background-position: 98%;
   background-repeat: no-repeat;
   background-size: 12px;
