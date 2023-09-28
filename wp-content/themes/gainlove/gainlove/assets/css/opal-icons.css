@@ -6,9 +6,9 @@
  * -------------------------- */
 @font-face {
   font-family: FontAwesome;
-  src: url(httpgithub.com/DoxaFoundation/wp-content/themes/gainlove/gainlove/assets/fonts/fontawesome-webfont.eot?v=4.7.0);
-  src: url(httpgithub.com/DoxaFoundation/wp-content/themes/gainlove/gainlove/assets/fonts/fontawesome-webfont.eot#iefix&v=4.7.0) format("embedded-opentype"), url(httpgithub.com/DoxaFoundation/wp-content/themes/gainlove/gainlove/assets/fonts/fontawesome-webfont.woff?v=4.7.0) format("woff"),
-    url(httpgithub.com/DoxaFoundation/wp-content/themes/gainlove/gainlove/assets/fonts/fontawesome-webfont.ttf?v=4.7.0) format("truetype"), url(httpgithub.com/DoxaFoundation/wp-content/themes/gainlove/gainlove/assets/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format("svg");
+  src: url(httphttps://doxafoundation.github.io/doxa.org/wp-content/themes/gainlove/gainlove/assets/fonts/fontawesome-webfont.eot?v=4.7.0);
+  src: url(httphttps://doxafoundation.github.io/doxa.org/wp-content/themes/gainlove/gainlove/assets/fonts/fontawesome-webfont.eot#iefix&v=4.7.0) format("embedded-opentype"), url(httphttps://doxafoundation.github.io/doxa.org/wp-content/themes/gainlove/gainlove/assets/fonts/fontawesome-webfont.woff?v=4.7.0) format("woff"),
+    url(httphttps://doxafoundation.github.io/doxa.org/wp-content/themes/gainlove/gainlove/assets/fonts/fontawesome-webfont.ttf?v=4.7.0) format("truetype"), url(httphttps://doxafoundation.github.io/doxa.org/wp-content/themes/gainlove/gainlove/assets/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format("svg");
   font-weight: 400;
   font-style: normal;
 }
@@ -3017,9 +3017,9 @@ form[id*="give-form"] .give-loading-animation {
 
 @font-face {
   font-family: opal-icon;
-  src: url(httpgithub.com/DoxaFoundation/wp-content/themes/gainlove/gainlove/assets/fonts/opal-icon.eot);
-  src: url(httpgithub.com/DoxaFoundation/wp-content/themes/gainlove/gainlove/assets/fonts/opal-icon.eot#iefix) format("eot"), url(httpgithub.com/DoxaFoundation/wp-content/themes/gainlove/gainlove/assets/fonts/opal-icon.woff2) format("woff2"), url(httpgithub.com/DoxaFoundation/wp-content/themes/gainlove/gainlove/assets/fonts/opal-icon.woff) format("woff"), url(httpgithub.com/DoxaFoundation/wp-content/themes/gainlove/gainlove/assets/fonts/opal-icon.ttf) format("truetype"),
-    url(httpgithub.com/DoxaFoundation/wp-content/themes/gainlove/gainlove/assets/fonts/opal-icon.svg#opal-icon) format("svg");
+  src: url(httphttps://doxafoundation.github.io/doxa.org/wp-content/themes/gainlove/gainlove/assets/fonts/opal-icon.eot);
+  src: url(httphttps://doxafoundation.github.io/doxa.org/wp-content/themes/gainlove/gainlove/assets/fonts/opal-icon.eot#iefix) format("eot"), url(httphttps://doxafoundation.github.io/doxa.org/wp-content/themes/gainlove/gainlove/assets/fonts/opal-icon.woff2) format("woff2"), url(httphttps://doxafoundation.github.io/doxa.org/wp-content/themes/gainlove/gainlove/assets/fonts/opal-icon.woff) format("woff"), url(httphttps://doxafoundation.github.io/doxa.org/wp-content/themes/gainlove/gainlove/assets/fonts/opal-icon.ttf) format("truetype"),
+    url(httphttps://doxafoundation.github.io/doxa.org/wp-content/themes/gainlove/gainlove/assets/fonts/opal-icon.svg#opal-icon) format("svg");
 }
 
 .elementor-menu-toggle.elementor-active i:before,
