@@ -130,7 +130,9 @@ pre {
   font-family: monospace, monospace;
   font-size: 1em;
 }
-
+.elementor-1197 .elementor-element.elementor-element-7db539a.elementor-widget-heading .elementor-heading-title {
+  color: #181616 !important;
+}
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
@@ -6817,7 +6819,4 @@ p.has-drop-cap:not(:focus):first-letter {
 .tax-osf_story_category .entry-meta a {
   color: #000;
   font-weight: 600;
-}
-.elementor-1197 .elementor-element.elementor-element-7db539a.elementor-widget-heading .elementor-heading-title {
-  color: #181616 !important;
 }
