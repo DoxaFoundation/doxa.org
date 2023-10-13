@@ -13,7 +13,8 @@ Text Domain: gainlove
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
-/*--------------------------------------------------------------
+/*----------------------------------------------    color: #181616;
+----------------
 >>> TABLE OF CONTENTS:
 ----------------------------------------------------------------
 1.0 Normalize
@@ -6816,4 +6817,7 @@ p.has-drop-cap:not(:focus):first-letter {
 .tax-osf_story_category .entry-meta a {
   color: #000;
   font-weight: 600;
+}
+.elementor-1197 .elementor-element.elementor-element-7db539a.elementor-widget-heading .elementor-heading-title {
+  color: #181616 !important;
 }
