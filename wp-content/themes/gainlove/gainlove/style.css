@@ -131,6 +131,11 @@ pre {
   font-size: 1em;
 }
 /*additions*/
+.elementor .elementor-1197{
+    background-image: url(hhttps://doxafoundation.github.io/doxa.org/wp-content/uploads/revslider/slider-home1/h1-slider2-new.jpg) !important;
+}
+
+
 .elementor-1197 .elementor-element.elementor-element-126212f.elementor-widget-heading .sub-title {
   
   margin-top: 295px  !important;
@@ -138,12 +143,20 @@ pre {
 .wp-image-9349{
   max-width: 145px !important;
 }
-.wp-image-9347{
-  max-width: 145px !important;
+.attachment-full .size-full .wp-image-9347{
+  max-width: 80px !important;
 }
 .elementor-1197 .elementor-element.elementor-element-7db539a.elementor-widget-heading .elementor-heading-title {
   color: #181616 !important;
 }
+.elementor-1197 .elementor-element.elementor-element-d9abab1:not(.elementor-motion-effects-element-type-background), .elementor-1197 .elementor-element.elementor-element-d9abab1 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+  background-image: url("https://doxafoundation.github.io/doxa.org/wp-content/uploads/revslider/slider-home1/h1-slider2-new.jpg") !important;
+}
+.elementor-1197 .elementor-element.elementor-element-2937ef6:not(.elementor-motion-effects-element-type-background), .elementor-1197 .elementor-element.elementor-element-2937ef6 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+  background-image: url(https://doxafoundation.github.io/doxa.org/wp-content/uploads/revslider/slider-home1/h1-slider2-new.jpg) !important;
+  background-size: cover;
+}
+/**/
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
