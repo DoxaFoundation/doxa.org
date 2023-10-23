@@ -135,7 +135,10 @@ pre {
 .elementor-1197 .elementor-element.elementor-element-fc4ec1e {
 
     background-image: url(https://doxafoundation.github.io/doxa.org/wp-content/uploads/2023/08/New-Project-1.gif) !important;
-}
+    height: 100%;
+    background: cover;
+    background-size: cover;
+  }
 
 .elementor-element.elementor-element-fc4ec1e{
   background-image: url(https://doxafoundation.github.io/doxa.org/wp-content/uploads/2023/08/New-Project-1.gif) !important;
