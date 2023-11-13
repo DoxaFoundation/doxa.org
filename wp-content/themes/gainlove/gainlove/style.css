@@ -134,21 +134,29 @@ pre {
 
 .elementor-1197 .elementor-element.elementor-element-fc4ec1e {
 
-    background-image: url(https://doxafoundation.github.io/doxa.org/wp-content/uploads/2023/08/New-Project-1.gif) !important;
-    height: 100%;
+    background-image: url(https://doxafoundation.github.io/doxa.org/wp-content/uploads/2023/08/New-Project-2.gif);
+    max-height: 100%;
     background: cover;
     background-size: cover;
+    max-width: 100%;
   }
 
 .elementor-element.elementor-element-fc4ec1e{
-  background-image: url(https://doxafoundation.github.io/doxa.org/wp-content/uploads/2023/08/New-Project-1.gif) !important;
-
+  background-image: url(https://doxafoundation.github.io/doxa.org/wp-content/uploads/2023/08/New-Project-2.gif) !important;
+  max-height: 100%;
+    background: cover;
+    background-size: cover;
+    max-width: 100%;
 }
 
 
 .elementor .elementor-1197{
     background-image: url(https://doxafoundation.github.io/doxa.org/wp-content/uploads/revslider/slider-home1/h1-slider2-new.jpg);
-}
+    max-height: 100%;
+    background: cover;
+    background-size: cover;
+    max-width: 100%;
+  }
 
 
 
