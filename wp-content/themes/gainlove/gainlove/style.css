@@ -131,7 +131,7 @@ pre {
   font-size: 1em;
 }
 /*additions*/
-@media (max-width: 550px) {
+@media only screen and (max-width: 600px) {
   .elementor-1197 .elementor-element.elementor-element-113e6a1 .elementor-icon-box-wrapper{
     padding-right: 6px;
 
@@ -148,7 +148,7 @@ pre {
     padding: 0px 0px 0px 0px;
   }
     .cover-pic {
-      background-image: url(https://doxafoundation.github.io/doxa.org/wp-content/uploads/2023/08/AdobeStock_177030822.jpg)!important;
+      background-image: url(https://doxafoundation.github.io/doxa.org/wp-content/uploads/2023/08/AdobeStock_177030822.jpg);
       max-height: 100%;
       background: cover;
       background-size: cover;
@@ -164,25 +164,30 @@ pre {
     border-radius: 10%;
     display: none;
     }
+    .elementor-1197 .elementor-element.elementor-element-59230e9 > .elementor-widget-container {
+      margin: 0px 0px 0px -4px I !important;
+      padding: 0px 0px 0px 0px !important;
+  }
+  .elementor-1197 .elementor-element.elementor-element-c071c3b {
+    color: #FFFFFF;
+    display: NONE;
+  }
+  .elementor-1197 .elementor-element.elementor-element-7db539a .elementor-heading-title {
+    font-size: 1px;
+}
+
+
 }
 @media (max-width: 550px){
   .elementor-1197 .elementor-element.elementor-element-113e6a1 .elementor-icon-box-wrapper{
     padding-right: 6px;
 
-    .elementor-1197 .elementor-element.elementor-element-59230e9 > .elementor-widget-container {
-      margin: 0px 0px 0px -4px I !important;
-      padding: 0px 0px 0px 0px !important;
-  }
+   
 
   }
 
-.elementor-1197 .elementor-element.elementor-element-c071c3b {
-  color: #FFFFFF;
-  display: NONE;
-}
-  .elementor-1197 .elementor-element.elementor-element-7db539a .elementor-heading-title {
-    font-size: 1px;
-}
+
+ 
 
 }
 @media (max-width: 550px){
