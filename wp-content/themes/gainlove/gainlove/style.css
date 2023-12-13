@@ -131,9 +131,19 @@ pre {
   font-size: 1em;
 }
 /*additions*/
+.site-header{
+  display: none;
+}
 .elementor-1197 .elementor-element.elementor-element-59230e9 > .elementor-widget-container {
   margin: 0px 0px 24px 0px!important;
   padding: 88px 0px 0px 0px!important;
+}
+
+@media (max-width: 550px){
+.elementor-1197 .elementor-element.elementor-element-113e6a1 {
+    padding-right: 10px;
+    padding-bottom: 27px;
+  }
 }
 
 @media (max-width: 550px){  
@@ -185,14 +195,6 @@ pre {
 .elementor-1059 .elementor-element.elementor-element-f424d3f.elementor-widget-heading .elementor-heading-title {
   padding-left: 120px;
 }
-.cover-pic {
-
-    background-image: url(https://doxafoundation.github.io/doxa.org/wp-content/uploads/2023/08/New-Project-2.gif)!important;
-    max-height: 100%;
-    background: cover;
-    background-size: cover;
-    max-width: 100%;
-  }
 
 .elementor-element.elementor-element-fc4ec1e{
   background-image: url(https://doxafoundation.github.io/doxa.org/wp-content/uploads/2023/08/New-Project-1.gif) !important;
