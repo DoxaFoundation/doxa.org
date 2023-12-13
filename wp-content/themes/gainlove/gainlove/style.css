@@ -131,14 +131,17 @@ pre {
   font-size: 1em;
 }
 /*additions*/
-
-.elementor-1197 .elementor-element.elementor-element-113e6a1 .elementor-icon-box-wrapper {
-  background-color: #FFFFFF;
-  border-radius: 0px 40px 0px 40px;
-  padding: 15px -1px 51px 22px !important;
-  margin: 0px 0px 0px 0px;
-  text-align: left;
+.elementor-1197 .elementor-element.elementor-element-113e6a1 .elementor-icon-box-content .elementor-icon-box-title {
+  font-size: 30px !important;
+  
 }
+elementor-element.elementor-element-113e6a1 .elementor-icon-box-wrapper {
+  
+  
+  padding: 15px 6px 51px 22px !important;
+  
+}
+
 
 .cover-pic{
   background-image: url(https://doxafoundation.github.io/doxa.org/wp-content/uploads/2023/08/New-Project-1.gif) !important;
