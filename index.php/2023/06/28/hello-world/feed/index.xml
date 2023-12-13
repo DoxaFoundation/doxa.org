@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="httphttps://doxafoundation.github.io/doxa.org/index.php/2023/06/28/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>httphttps://doxafoundation.github.io/doxa.org/index.php/2023/06/28/hello-world/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
+	<atom:link href="https://doxafoundation.github.io/doxa.org/index.php/2023/06/28/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://doxafoundation.github.io/doxa.org/index.php/2023/06/28/hello-world/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
 	<description>Digital Dollar</description>
 	<lastBuildDate>Wed, 28 Jun 2023 02:34:20 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>httphttps://doxafoundation.github.io/doxa.org/index.php/2023/06/28/hello-world/#comment-1</link>
+		<link>https://doxafoundation.github.io/doxa.org/index.php/2023/06/28/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Wed, 28 Jun 2023 02:34:20 +0000</pubDate>
-		<guid isPermaLink="false">httphttps://doxafoundation.github.io/doxa.org/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://doxafoundation.github.io/doxa.org/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

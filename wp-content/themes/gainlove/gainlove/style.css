@@ -13,7 +13,8 @@ Text Domain: gainlove
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
-/*--------------------------------------------------------------
+/*----------------------------------------------    color: #181616;
+----------------
 >>> TABLE OF CONTENTS:
 ----------------------------------------------------------------
 1.0 Normalize
@@ -129,7 +130,136 @@ pre {
   font-family: monospace, monospace;
   font-size: 1em;
 }
+/*additions*/
+.elementor-1197 .elementor-element.elementor-element-113e6a1 .elementor-icon-box-wrapper {
+    padding: 15px 0px 51px 22px;
+   
+}
 
+.elementor-1197 .elementor-element.elementor-element-113e6a1 .elementor-icon-box-content .elementor-icon-box-title {
+  font-size: 30px !important;
+  
+}
+elementor-element.elementor-element-113e6a1 .elementor-icon-box-wrapper {
+  
+  
+  padding: 15px 6px 51px 22px !important;
+  
+}
+
+
+.cover-pic{
+  background-image: url(https://doxafoundation.github.io/doxa.org/wp-content/uploads/2023/08/New-Project-1.gif) !important;
+}
+
+.site-header{
+  display: none;
+}
+.elementor-1197 .elementor-element.elementor-element-59230e9 > .elementor-widget-container {
+  margin: 0px 0px 24px 0px!important;
+  padding: 88px 0px 0px 0px!important;
+}
+
+
+  .elementor-1197 .elementor-element.elementor-element-113e6a1 > .elementor-widget-container{
+    padding-right: 10px;
+    padding-bottom: 27px;
+  }
+
+
+@media (max-width: 550px){  
+  elementor-social-icon-facebook{
+    display: none;
+  }
+  elementor-social-icon-twitter{
+    display: none;
+  }
+  .elementor-shape-rounded .elementor-icon.elementor-social-icon {
+    border-radius: 10%;
+    display: none;
+    }
+    .elementor-1197 .elementor-element.elementor-element-59230e9 > .elementor-widget-container {
+      margin: 0px 0px 0px -4px I !important;
+      padding: 0px 0px 0px 0px !important;
+  }
+  .elementor-1197 .elementor-element.elementor-element-c071c3b {
+    color: #FFFFFF;
+    display: NONE;
+  }
+  .elementor-1197 .elementor-element.elementor-element-7db539a .elementor-heading-title {
+    font-size: 1px;
+}
+
+
+}
+@media (max-width: 550px){
+  .elementor-1197 .elementor-element.elementor-element-113e6a1 .elementor-icon-box-wrapper{
+    padding-right: 6px;
+
+   
+
+  }
+
+}
+.elementor-1197 .elementor-element.elementor-element-7db539a .elementor-heading-title {
+  font-size: 1px;
+ 
+
+}
+@media (max-width: 550px){
+  .elementor-1197 .elementor-element.elementor-element-24af605 .elementor-icon-box-wrapper {
+    text-align: center;
+    padding-left: 75px;
+  }
+}
+
+.elementor-1059 .elementor-element.elementor-element-f424d3f.elementor-widget-heading .elementor-heading-title {
+  padding-left: 120px;
+}
+
+
+.elementor-element.elementor-element-fc4ec1e{
+  background-image: url(https://doxafoundation.github.io/doxa.org/wp-content/uploads/2023/08/New-Project-1.gif) !important;
+    max-height: 100%;
+    background: cover;
+    background-size: cover;
+    max-width: 100%;
+
+
+}
+
+
+.elementor .elementor-1197{
+    background-image: url(https://doxafoundation.github.io/doxa.org/wp-content/uploads/revslider/slider-home1/h1-slider2-new.jpg);
+    max-height: 100%;
+    background: cover;
+    background-size: cover;
+    max-width: 100%;
+  }
+
+
+
+.elementor-1197 .elementor-element.elementor-element-126212f.elementor-widget-heading .sub-title {
+  
+  margin-top: 295px  !important;
+}
+.w  p-image-9349{
+  max-width: 145px !important;
+}
+.attachment-full .size-full .wp-image-9347{
+  max-width: 80px !important;
+}
+.elementor-1197 .elementor-element.elementor-element-7db539a.elementor-widget-heading .elementor-heading-title {
+  color: #ffffff !important;
+}
+.elementor-1197 .elementor-element.elementor-element-d9abab1:not(.elementor-motion-effects-element-type-background), .elementor-1197 .elementor-element.elementor-element-d9abab1 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+  background-image: url("https://doxafoundation.github.io/doxa.org/wp-content/uploads/revslider/slider-home1/h1-slider2-new.jpg") !important;
+}
+.elementor-1197 .elementor-element.elementor-element-2937ef6:not(.elementor-motion-effects-element-type-background), .elementor-1197 .elementor-element.elementor-element-2937ef6 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+  background-image: url(https://doxafoundation.github.io/doxa.org/wp-content/uploads/revslider/slider-home1/h1-slider2-new.jpg) !important;
+  background-size: cover;
+}
+/**/
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
@@ -634,7 +764,7 @@ blockquote:before {
   content: "";
   width: 50px;
   height: 50px;
-  background-image: url(httphttps://doxafoundation.github.io/doxa.org/wp-content/themes/gainlove/gainlove/assets/images/quote-icon.png);
+  background-image: url(https://doxafoundation.github.io/doxa.org/wp-content/themes/gainlove/gainlove/assets/images/quote-icon.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 50%;
@@ -3773,7 +3903,7 @@ body.page-template-page-elementor #content {
 }
 
 .error404 .site-content-contain {
-  background-image: url(httphttps://doxafoundation.github.io/doxa.org/wp-content/themes/gainlove/gainlove/assets/images/bg_404.jpg);
+  background-image: url(https://doxafoundation.github.io/doxa.org/wp-content/themes/gainlove/gainlove/assets/images/bg_404.jpg);
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -6189,7 +6319,7 @@ p.has-drop-cap:not(:focus):first-letter {
 .colors-dark .entry-content .wp-block-button__link,
 .colors-dark .entry-content .wp-block-button__link:focus,
 .colors-dark .entry-content .wp-block-button__link:hover {
-  box-shadow: none;
+  box-shadow: ndone;
 }
 
 .colors-custom .entry-content .wp-block-button__link:focus,
