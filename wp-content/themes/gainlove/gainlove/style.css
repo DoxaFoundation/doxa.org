@@ -112,7 +112,7 @@ h1 {
 
 figcaption,
 figure,
-main 
+main {
   display: block;
 }
 
@@ -131,11 +131,10 @@ pre {
   font-size: 1em;
 }
 /*additions*/
-.elementor-1197 .elementor-element.elementor-element-fc4ec1e {
-  background-image: url(https://doxafoundation.github.io/doxa.org/wp-content/uploads/2023/08/New-Project-2.gif) !important;
-  background: cover;
-  background-size: cover;
+.cover-pic{
+  background-image: url(https://doxafoundation.github.io/doxa.org/wp-content/uploads/2023/08/New-Project-1.gif) !important;
 }
+
 .site-header{
   display: none;
 }
@@ -184,7 +183,7 @@ pre {
 
   }
 
-
+}
 .elementor-1197 .elementor-element.elementor-element-7db539a .elementor-heading-title {
   font-size: 1px;
  
